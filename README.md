@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer+in+Progress;System+Design+Enthusiast;Building+Scalable+%26+High-Performance+Systems;Clean+Code.+Clean+Architecture." />
+</p>
+
 <h1 align="center">Hi 👋, I'm Eslam Saeed</h1>
 
-<h3 align="center">A student of computers and artificial intelligence , Cairo University</h3>
+<h3 align="center">Passionate About Full Stack Developement, Turning Ideas Into Scalable Software</h3>
 
 <hr>
-
-<p>Passionate about Software Engineering and MERN Stack development</p>
 
 ## 💻 Tech Stack:
 ### Languages
@@ -32,13 +34,27 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+### System Design & Architecture
+![Caching Strategies](https://img.shields.io/badge/Caching-FFD700?style=for-the-badge&logo=redis&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-6F42C1?style=for-the-badge&logo=eventbrite&logoColor=white)
+![Message Queues](https://img.shields.io/badge/Message%20Queues-8A2BE2?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B0082?style=for-the-badge&logo=gitlab&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-FF4500?style=for-the-badge&logo=nginx&logoColor=white)
+![CQRS & Event Sourcing](https://img.shields.io/badge/CQRS%20%26%20Event%20Sourcing-1ABC9C?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-FF6F61?style=for-the-badge&logo=nginx&logoColor=white)
+![Logging](https://img.shields.io/badge/Logging-00CED1?style=for-the-badge&logo=logstash&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-FF69B4?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-1E90FF?style=for-the-badge&logo=oauth&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-405DE6?style=for-the-badge&logo=cloudinary&logoColor=white)
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=javascript&logoColor=white)
 
 <hr>
 
