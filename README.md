@@ -58,6 +58,21 @@
 
 <hr>
 
+## 📂 Featured Projects & Experience
+### 🧠 Social Media App (Scalable Backend Platform)
+
+A production-oriented social media backend for video content, built with an event-driven architecture.
+It combines real-time API operations with asynchronous job processing for analytics, notifications, email, and media workflows, plus personalized recommendations powered by user-interest scoring.
+
+- Tech Stack: Node.js, Express 5, MongoDB (Mongoose), Redis, BullMQ, Cloudinary, Passport Google OAuth, JWT, Joi, Swagger/OpenAPI, Docker, GitHub Actions, Jest
+- Core Features: Authentication (JWT + Google), profile management, video upload/management, comments/replies, likes, subscriptions, playlists, watch later, watch history, notifications, reporting, admin moderation
+- Intelligence Features: Personalized video recommendations, trending score engine (engagement + time decay), user-interest tracking from interactions, channel analytics (daily stats, top videos, watch time, audience distribution)
+- Performance & Scalability: Redis response caching, Redis-backed rate limiting, queue-driven background workers, cache invalidation strategy, paginated/filterable APIs
+- DevOps & Reliability: Dockerized multi-service setup (API + Mongo + Redis + workers), CI pipeline with test/build checks, container publishing workflow, structured logging, unit-test coverage across controllers
+- <a href="https://github.com/Eslamsaeed880/Social-Media-App">GitHub Repo</a>
+
+<hr>
+
 ## 🎓 Education
 <strong>Bachelor's Degree in Computer Science</strong> - Cairo University (2023-2027)
 
