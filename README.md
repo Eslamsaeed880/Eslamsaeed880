@@ -71,6 +71,19 @@ It combines real-time API operations with asynchronous job processing for analyt
 - DevOps & Reliability: Dockerized multi-service setup (API + Mongo + Redis + workers), CI pipeline with test/build checks, container publishing workflow, structured logging, unit-test coverage across controllers
 - <a href="https://github.com/Eslamsaeed880/Social-Media-App">GitHub Repo</a>
 
+### 🛒 Ecommerce API (Secure Backend Platform)
+
+A production-focused ecommerce backend built with modular REST architecture, covering complete shopping workflows from authentication to checkout. It combines secure API design, media handling, role-based admin controls, and payment workflows for real-world online store operations.
+
+- Tech Stack: Node.js, Express 5, MongoDB (Mongoose), JWT, Passport Google OAuth, Cloudinary, Stripe, Nodemailer (SendGrid), express-validator, Swagger/OpenAPI, Helmet, Express Rate Limit
+- Core Features: User auth (JWT + Google), profile/account flows, password reset via email token, product catalog, category/subcategory support, size & stock management
+- Shopping Features: Cart management (add/update/remove), multi-wishlist support, product reviews/ratings, order placement, order history, search + pagination across key resources
+- Payments & Fulfillment: Cash on Delivery + Stripe checkout session flow, payment verification endpoint, stock updates after successful purchase, delivery-charge handling
+- Admin Features: Admin-only product CRUD with image uploads, order management with status transitions (processing/delivered/cancelled/refund), inventory restoration on cancel/refund, full product/order/wishlist visibility
+- Security & Reliability: Helmet security headers, CORS controls, request rate limiting, request validation/sanitization, bcrypt password hashing, centralized error handling
+- Developer Experience: Swagger API docs, modular route/controller structure, environment-based config, clean separation of auth/cart/order/review/wishlist/admin domains
+- <a href="https://github.com/Eslamsaeed880/ecommerce">GitHub Repo</a>
+
 <hr>
 
 ## 🎓 Education
