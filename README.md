@@ -71,6 +71,19 @@ It combines real-time API operations with asynchronous job processing for analyt
 - DevOps & Reliability: Dockerized multi-service setup (API + Mongo + Redis + workers), CI pipeline with test/build checks, container publishing workflow, structured logging, unit-test coverage across controllers
 - <a href="https://github.com/Eslamsaeed880/Social-Media-App">GitHub Repo</a>
 
+### 💪🏽 Fitness API (Scalable Social Fitness Backend Platform)
+A backend platform for fitness tracking and social workout workflows, designed as a modular monolith with async workers and Redis-backed infrastructure.
+It combines real-time API operations with background jobs for media processing, email delivery, and workout-stat updates, while enforcing role-based access, caching, and containerized deployment.
+
+- Tech Stack: Node.js (ES Modules), Express 5, MongoDB (Mongoose), Redis (IORedis), BullMQ, Socket.io, Cloudinary, Passport Google OAuth, JWT, express-validator, Helmet, CORS, Multer, Swagger/OpenAPI, Docker Compose
+- Core Product Domains: Authentication, users/profile media, exercises, workout routines, workout execution tracking, split planning, exercise requests, personal records, body stats, admin management, and other things still in process...
+- Async Workflows: Redis queues + dedicated workers for media, email, exercise processing, and personal record updates
+- Performance & Scalability: Redis response caching, queue offloading for heavy tasks, Concurrency, pagination/search/sorting across major listing APIs
+- Security & Reliability: JWT auth middleware, role-based admin guard, Helmet headers, CORS controls, request rate limiting, centralized error handling
+- Deployment: Multi-container Docker topology (API + MongoDB + Redis + workers), health checks, mounted volumes for persistence and development workflow
+- Currently, I am actively working on the next platform phase: CI/CD pipeline automation, comprehensive unit testing coverage, AI integration, a real-time chat app module, and a full social feed system. These additions are focused on improving release reliability, code quality, intelligent user experience, and engagement scalability.
+- <a href="https://github.com/Eslamsaeed880/Fitness-API" >GitHub Repo</a>
+
 ### 🛒 Ecommerce API (Secure Backend Platform)
 
 A production-focused ecommerce backend built with modular REST architecture, covering complete shopping workflows from authentication to checkout. It combines secure API design, media handling, role-based admin controls, and payment workflows for real-world online store operations.
